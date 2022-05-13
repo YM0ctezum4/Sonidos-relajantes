@@ -1,0 +1,14 @@
+{
+  "audios":{
+    "p0" : "audios/Ambience-underwater.mp3",
+    "p1" : "audios/Sensor-glitch-screen.mp3",
+    "p2" : "audios/Farola.mp3",
+    "p3" : "audios/Gotas sobre el techo.mp3"
+  },
+  "colores":{
+    "p0" : "rgba(202, 255, 51, 0.75)",
+    "p1" : "rgba(255, 252, 51, 0.75)",
+    "p2" : "rgba(193, 51, 255, 0.75)",
+    "p3" : "rgba(88, 51, 255, 0.75)" 
+  }
+}
